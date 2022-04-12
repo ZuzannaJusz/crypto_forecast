@@ -1,5 +1,6 @@
 # Forecasting cryptocurrencies with Tensorflow
-## Project contains data wrangling, data visualization and forecast of chosen cryptocurrencies.
+## Project was created in order to learn and use practically Tensorflow functionalities. Learning process contains ML algorithms, basic statistic and time series forecasting.
+
 
 ### List of chosen crypyocurrencies:
 * bitcoin
