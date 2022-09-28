@@ -30,3 +30,4 @@ Dataset: https://www.kaggle.com/datasets/ysthehurricane/all-cryptocurrencies-pri
 
 ***
 ***
+Tensorflow part was created based on tensorflow and keras documentation
