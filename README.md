@@ -26,6 +26,9 @@ Dataset: https://www.kaggle.com/datasets/ysthehurricane/all-cryptocurrencies-pri
 * https://matplotlib.org/stable/index.html
 * O'Reilly Python
 * https://www.tensorflow.org/api_docs/python/tf/all_symbols
+* https://iotdesignpro.com/projects/implementing-deep-learning-neural-network-model-to-predict-bitcoin-price-using-tensorflow-and-keras
+* https://medium.com/@huangkh19951228/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a
+* https://towardsdatascience.com/cryptocurrency-price-prediction-using-lstms-tensorflow-for-hackers-part-iii-264fcdbccd3f
 ***
 
 ***
