@@ -10,7 +10,7 @@
 
 ***
 ### Project was created in Jupyter Notebook in Python.
-### The following technologies was used during the creation of the forecast:
+### The following technologies were used during the creation of the forecast:
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="20%" height="20%" />
  <img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" width="30%" height="30%" />
