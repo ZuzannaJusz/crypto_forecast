@@ -31,6 +31,3 @@ Dataset: https://www.kaggle.com/datasets/ysthehurricane/all-cryptocurrencies-pri
 * https://towardsdatascience.com/cryptocurrency-price-prediction-using-lstms-tensorflow-for-hackers-part-iii-264fcdbccd3f
 ***
 
-***
-***
-Tensorflow part was created based on tensorflow and keras documentation
