@@ -8,6 +8,7 @@
 * ethereum
 * dogecoin
 
+
 ***
 ### Project was created in Jupyter Notebook in Python.
 ### The following technologies were used during the creation of this forecast:
